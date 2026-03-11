@@ -135,5 +135,6 @@ Aspiring Data Analyst | Data Visualization Enthusiast
 If you found this project useful:
 
 ⭐ Star the repository
+
 📩 Connect with me on LinkedIn:
 https://www.linkedin.com/in/beduduri-yaswanth-reddy-data-analyst-ai?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BRlTjMwDKRhqo%2Br%2Bin1buTg%3D%3D
